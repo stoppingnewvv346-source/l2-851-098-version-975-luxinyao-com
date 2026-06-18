@@ -1,0 +1,9 @@
+{
+  "name": "高清剧集大全",
+  "short_name": "高清剧集大全",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "description": "国产电视剧大全栏目整理国产剧片库，适合按题材、热度和口碑浏览。"
+}

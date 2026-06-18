@@ -1,0 +1,13 @@
+{
+  "movie_count": 2000,
+  "detail_count": 2000,
+  "html_count": 2017,
+  "category_count": 12,
+  "category_cover_all": true,
+  "tracking_ok": true,
+  "player_structure_ok": true,
+  "no_jpg_files": true,
+  "js_format_ok": true,
+  "css_format_ok": true,
+  "stream_count": 20
+}
